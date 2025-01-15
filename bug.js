@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a library that requires native modules. The error message is usually something like `Invariant Violation: Native module cannot be null`. This is because Expo Go does not support native modules.
